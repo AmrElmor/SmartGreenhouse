@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Smart Greenhouse</string>
+
+    <!-- Default text to show with the earthquake location ("Near the Pacific-Antarctic Ridge")
+        if no specific kilometer distance from the primary location is given [CHAR LIMIT=30] -->
+    <string name="near_the">Near the</string>
+
+
+    <!-- Text to display in the list when there are no data [CHAR LIMIT=NONE] -->
+    <string name="no_earthquakes">No data found.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_ldr">LDR</string>
+
+    <string name="category_temp">Temp</string>
+
+    <string name="category_humidity">Humidity</string>
+
+    <string name="category_soil">Soil</string>
+
+    <string name="category_sensors">Sensors</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_control">Control</string>
+
+    <string name="channel_name">Smart GreenHouse</string>
+    <string name="channel_description">Notification</string>
+
+    <string name="error">ERROR !!!</string>
+
+
+</resources>
