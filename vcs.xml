@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/AmrElmor/ud843_DidYouFeelIt.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AmrElmor/ud845-Pets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Admin\AndroidStudioProjects" />
